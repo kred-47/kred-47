@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kred-47
-- 👀 I’m interested in sport
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on mmtr
+- 👀 I’m interested in sport, music
+- 🌱 I’m currently learning JavaScript, ReactJS
+- 💞️ I want to work as frontend developer
 - 📫 How to reach me? Just Call me!
 
 <!---
